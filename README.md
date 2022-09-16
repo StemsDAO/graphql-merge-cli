@@ -4,7 +4,7 @@ CLI to merge GraphQL schemas into a single schema.
 Inital work on this wrapper was done by [shreyas-a](https://github.com/shreyas-a/graphql-merge-cli).
 
 ```bash
-npm install -g @stemsdao/graphql-merge-cli@0.2.0
+npm install -g @stemsdao/graphql-merge-cli
 ```
 
 ### Options

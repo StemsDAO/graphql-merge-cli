@@ -1,6 +1,6 @@
 {
   "name": "@stemsdao/graphql-merge-cli",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "CLI to merge graphql schemas into a single schema",
   "bin": {
     "graphql-merge-cli": "cli.js"
