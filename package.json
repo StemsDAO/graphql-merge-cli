@@ -21,9 +21,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/StemsDAO/graphql-merge-cli/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/StemsDAO/graphql-merge-cli#readme",
   "dependencies": {
     "@graphql-tools/load-files": "^6.6.1",
     "@graphql-tools/merge": "^8.3.6",
